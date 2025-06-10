@@ -6,10 +6,10 @@ Planos em 2025
 
 Listinha
 
-- Formar (:tada:) ;
-- Aprender e finalizar o curso de Phyton (:tada:);
-- Viajar (:tada:);
-- Passar no mestrado (:tada:);
+- Formar ✅ ;
+- Aprender e finalizar o curso de Phyton ✅);
+- Viajar ✅;
+- Passar no mestrado ✅;
 - Estudar para Concurso;
 - Ter tempo para ir a praia.
 - Passar no Doutorado
