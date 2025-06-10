@@ -1,6 +1,6 @@
 # Iniciando a Vida programa.br
 ## Sou Dani, professora de Matemática, Mãe de Gabi, Billy e Wicca.
-### Amo fazer fogueira e jogar Mário Bross.
+### Amo fazer fogueira e jogar Mário Bross. <https://i.gifer.com/origin/ac/acf3abb6da430dd78cc99f925bb52d49.gif>
 
 Planos em 2025
 
